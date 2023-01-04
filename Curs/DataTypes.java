@@ -13,13 +13,14 @@ public class DataTypes {
         int an = 2016;
         int motor = 1995;
 
-        // Float = numar zecimal
+        // Float/Double = numar zecimal
         float pret = 17.8f;
+        double valoare = 17.8;
 
         // Boolean = adevarat sau fals (cu minuscula)
         boolean inmatriculata = false;
 
-        // Char = caracter
+        // Char = un singur caracter
         char clasa = 'D';
 
         // dimensiunea unui sir
