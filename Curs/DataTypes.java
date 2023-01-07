@@ -13,7 +13,7 @@ public class DataTypes {
         int an = 2016;
         int motor = 1995;
 
-        // Float/Double = numar zecimal
+        // Float / Double = numar zecimal
         float pret = 17.8f;
         double valoare = 17.8;
 
